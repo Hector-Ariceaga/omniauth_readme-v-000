@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'omniauth-google'
 
 gem 'thin'
 
